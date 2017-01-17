@@ -5,3 +5,4 @@ Table of Contents
 
 1. Macndcheeze
 2. Tea
+3. Coffee
