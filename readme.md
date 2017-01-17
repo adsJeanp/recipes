@@ -5,3 +5,6 @@ Table of Contents
 
 1. Macndcheeze
 2. Toast
+3. Tea
+4. Coffee
+
