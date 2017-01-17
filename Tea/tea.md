@@ -1,4 +1,5 @@
-Ingredients
+#Tea
 
-Tea leaves
-Hot Water
+##Ingredients
+-Tea leaves
+-Hot Water
