@@ -1,4 +1,7 @@
-The Recipe Project
+#The Recipe Project
+
+*This is only a example repository used as part of a training course for Git.*
+
 A list of the best recipes ever. These recipes are from all around.
 
 Table of Contents
